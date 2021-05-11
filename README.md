@@ -59,7 +59,6 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://dnschecker.org | Check the DNS propagation of domains. | Free |
 | https://dnsdumpster.com/ | Domain research tool that can discover hosts related to a domain. | Free |
 | https://dnsspy.io/ | Monitor, validate and verify your DNS configurations. | Free and paid plans |
-| https://www.dnsstuff.com/tools | Multiple DNS tools. | Free |
 | https://dnswatch.info/ | DNS Lookups & Performance Monitoring. | Free |
 | https://www.domainiq.com/tools | DNS, IP, MX tools. | Free and paid plans |
 | https://whois.domaintools.com/ | Reverse whois & IP lookup. | Free and paid plans |
@@ -71,7 +70,6 @@ List of links to the various checkers out there on the web for sites, domains, s
 | https://toolbox.googleapps.com/apps/dig | Easy to use DNS dig tool. | Free |
 | https://toolbox.googleapps.com/apps/checkmx | Check the MX records of a domain. | Free |
 | https://tools.keycdn.com | Check for http/2 support and find network related issues. | Free |
-| https://www.ultratools.com | Big collection of useful network tools. | Free |
 | https://www.unlocktheinbox.com/dnstools/mx/ | Checks DNS, WHOIS, Blacklists, and more. | Free, Paid Plans |
 | https://www.viewdns.info/ | View DNS, IP, MX information. | Free and paid plans |
 | https://www.nslookup.io/ | Global DNS propagation checker. | Free |
